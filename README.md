@@ -1,2 +1,1 @@
-# Agnik
-# c project
+this is a c project for file management system 
